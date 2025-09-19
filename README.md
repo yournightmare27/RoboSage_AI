@@ -73,7 +73,7 @@ RoboSage is more than a program. It’s a guardian, a mirror, and a tiny spark o
 ## 💙 About the Creator
 
 Built with curiosity, creativity, and caffeine by Tanya Sosnovskaya
-🎓 MS in AI | 🎾 Former top-ranked NCAA athlete | 🛡 Cybersecurity + Data Science enthusiast
+🎓 MS in AI | 🎾 Former top-ranked NCAA athlete | 🛡 Cybersecurity + Data Science
 
 LinkedIn
 Portfolio Website (coming soon)
